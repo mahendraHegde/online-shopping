@@ -1,0 +1,10 @@
+ login
+view cart
+checkout
+profile
+change password
+address
+help
+track
+edit rate
+dash

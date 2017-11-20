@@ -1,0 +1,16 @@
+return product qty
+head link
+All footer
+dash chart
+seller chat
+help link
+chat icon
+
+whats app icon
+If users(all) are none what to do
+
+admin icon
+if length of the name is too long then what to do
+order Clicking in the admin dash is worked properly
+logistic id problem whil deleting the logistic id
+
